@@ -1,1 +1,2 @@
-# lovable-project-1737132907367
+# Lovable Project
+This repository was created by Lovable AI.
